@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "zEm1b+/BCVT4GWXG1J/wooYQMdZwb22xvoWqHSGMbUE=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\favicon.svg",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "favicon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.css",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o9c47zyw23",
+      "Integrity": "5PXOg+00TmyiEC19CZX5P4Wl+Z69mQPz6iXH0TCNyQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.html",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "95rtknyuu5",
+      "Integrity": "U+EHDKhs2EfmiELu+XQJ9MoTuoQwFMrcDSSDEQxlhtM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.js",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59abp20hh3",
+      "Integrity": "qUltfG4GsxsVVxLOL+78gri3TlacJVQ5S3G8dU4VUNw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "favicon.5ipweew5fc.svg",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\favicon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.svg",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\favicon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.59abp20hh3.js",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qUltfG4GsxsVVxLOL+78gri3TlacJVQ5S3G8dU4VUNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59abp20hh3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qUltfG4GsxsVVxLOL+78gri3TlacJVQ5S3G8dU4VUNw="
+        }
+      ]
+    },
+    {
+      "Route": "index.95rtknyuu5.html",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+EHDKhs2EfmiELu+XQJ9MoTuoQwFMrcDSSDEQxlhtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95rtknyuu5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+EHDKhs2EfmiELu+XQJ9MoTuoQwFMrcDSSDEQxlhtM="
+        }
+      ]
+    },
+    {
+      "Route": "index.css",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5PXOg+00TmyiEC19CZX5P4Wl+Z69mQPz6iXH0TCNyQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5PXOg+00TmyiEC19CZX5P4Wl+Z69mQPz6iXH0TCNyQ0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+EHDKhs2EfmiELu+XQJ9MoTuoQwFMrcDSSDEQxlhtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+EHDKhs2EfmiELu+XQJ9MoTuoQwFMrcDSSDEQxlhtM="
+        }
+      ]
+    },
+    {
+      "Route": "index.js",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qUltfG4GsxsVVxLOL+78gri3TlacJVQ5S3G8dU4VUNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qUltfG4GsxsVVxLOL+78gri3TlacJVQ5S3G8dU4VUNw="
+        }
+      ]
+    },
+    {
+      "Route": "index.o9c47zyw23.css",
+      "AssetFile": "C:\\Users\\Kosprod\\Desktop\\softronic-test-master\\Api\\wwwroot\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5PXOg+00TmyiEC19CZX5P4Wl+Z69mQPz6iXH0TCNyQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 12:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9c47zyw23"
+        },
+        {
+          "Name": "label",
+          "Value": "index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5PXOg+00TmyiEC19CZX5P4Wl+Z69mQPz6iXH0TCNyQ0="
+        }
+      ]
+    }
+  ]
+}
